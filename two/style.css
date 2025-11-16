@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background-color: rgb(212, 147, 212);
+}
+.container {
+  margin: 0 auto;
+  max-width: 700px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.top-section {
+  padding: 30px;
+  margin-top: 50px;
+}
+.head_cont {
+  font-size: 20px;
+}
+form input,
+select {
+  padding: 10px;
+  width: 300px;
+  margin-top: 10px;
+}
+h1 {
+  margin-bottom: 30px;
+}
+.form_l1,
+.form_l2,
+.form_l4,
+.form_l5 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form_l2,
+.form_l3,
+.form_l4,
+.form_l5 {
+  margin-top: 20px;
+}
+
+.form_l3 textarea {
+  width: 640px;
+  height: 150px;
+  margin-top: 10px;
+}
+
+.special input {
+  border: 300px;
+  border: 1px solid grey;
+  height: 40px;
+}
+
+button {
+  background-color: red;
+  color: white;
+  padding: 10px;
+  border: 0px;
+  /* text-align: center; */
+}
+
+
+/*  this can be done with the ample of text code which is been prioritized with this but leadint to the techinal reole in the web development iin hr  nain reason
+fos dind this this isa  siepedd i v wihta  perfewc resolutin is not in the case of the development od tt '''
+ ihave used a css flexbox inteadog the grid i have used the css efle chwi whci is usedfor thd eddeblopment if in t
+
+*/
